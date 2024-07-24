@@ -1,18 +1,11 @@
-Termdicator
+Termindicator
+
 A custom made crypto orderbook indicator displaying in your terminal
 
-Binance websocket futures api
+Binance websocket futures api - wss://fstream.binance.com/stream?streams=btcusdt@depth
 
-wss://fstream.binance.com/stream?streams=btcusdt@depth
+AVL binary tree - github.com/VictorLowther/btree
 
-AVL binary tree
+Websockets - github.com/gorilla/websocket"
 
-github.com/VictorLowther/btree
-
-Websockets
-
-github.com/gorilla/websocket"
-
-Termbox for UI in the terminal
-
-https://github.com/nsf/termbox-go
+Termbox for UI in the terminal - https://github.com/nsf/termbox-go
